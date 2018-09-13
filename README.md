@@ -1,1 +1,2 @@
-GQLS1.0
+# Comunidad del software open-source Gestor de Caudales Sólidos y Líquidos (GQLS)
+Usted podrá participar colaborativamente en el desarrollo del software GQLS desde cualquier lugar, lo invitamos a participar para seguir mejorando esta propuesta y liberarlo a los usuarios en sus diferentes plataformas, sugerimos usted cuente con conocimientos en los lenguajes de programación Python, C++; también en el lenguaje de consulta SQL, en caso esté interesado en participar puede  comunicarse al correo electrónico unmsm182@gmail.com informando sobre su interes.
