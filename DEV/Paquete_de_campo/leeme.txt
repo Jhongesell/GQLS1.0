@@ -1,0 +1,1 @@
+En esta carpeta se traba la lectura del ADCP y se almacena en una base de datos.
